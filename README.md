@@ -3,3 +3,4 @@
 - [第二篇: 服务消费者（rest+ribbon）(Finchley版本)](https://blog.csdn.net/forezp/article/details/81040946)
 - [第三篇: 服务消费者（Feign）(Finchley版本)](https://blog.csdn.net/forezp/article/details/81040965)
 - [第四篇:断路器（Hystrix）(Finchley版本)](https://blog.csdn.net/forezp/article/details/81040990)
+- [第五篇: 路由网关(zuul)(Finchley版本)](https://blog.csdn.net/forezp/article/details/81041012)
